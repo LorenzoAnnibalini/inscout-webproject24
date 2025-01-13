@@ -7,8 +7,6 @@ Benvenuto in Inscout, il social network dedicato agli appassionati di scouting!
 
 Questo progetto è un social network sviluppato nell'ambito del corso di Tecnologie Web. Si tratta di una piattaforma pensata per gli amanti dello scouting, dove gli utenti possono connettersi, condividere esperienze scout, e molto altro.
 
-### Vai al sito: [inscout](https://inscout.me)
-
 ## Sviluppatori
 
 - Annibalini Lorenzo
